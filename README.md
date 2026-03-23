@@ -55,7 +55,7 @@ O projeto visa consolidar o aprendizado e podem ser utilizados como portfólio p
 
 👤 **Bernardo Ribeiro**  
 📧 Email: lobilho1976u8@gmail.com  
-🔗 [GitHub](//github.com/seu-usuario/](https://github.com/BernardoFonsecaRibeiro))
+🔗 [GitHub]((https://github.com/BernardoFonsecaRibeiro))
 
 ---
 
