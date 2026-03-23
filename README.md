@@ -34,25 +34,22 @@ O projeto visa consolidar o aprendizado e podem ser utilizados como portfólio p
 ## 📂 Estrutura do Repositório
 
 ```bash
-📂 nome-do-repositorio
-├── 📁 src/main/java
-│   ├── 📁 com.exemplo.exercicios
-│   │   ├── Exercicio01.java
-│   │   ├── Exercicio02.java
-│   │
-├── 📄 README.md
-└── 📄 .gitignore
+📂 Atv2
+├── Atv2.php
+└── 📄 README.md
 ```
 ---
 ## 📖 Exemplos de Código
-** RECOMENDO COLOCAR AQUI A CLASSE DAO 
-```java
-public class Exemplo {
-    public static void main(String[] args) {
-        System.out.println("Olá, mundo!");
-    }
-}
-```
+<?php
+        echo "<div class='exercicio'>";
+        echo "<h3>Quadrado de um numero</h3>";
+        $num1 = 15;
+        $quad = pow($num1,2);
+        echo "<p>Valor: <code>$num1</code></p>";
+        echo "<div class='resultado'>O quadrado do numero é: <strong>$quad</strong></div>";
+        echo "</div>";
+
+      ?>
 ---
 ## 🏆 Autor(es)
 
