@@ -40,6 +40,7 @@ O projeto visa consolidar o aprendizado e podem ser utilizados como portfólio p
 ```
 ---
 ## 📖 Exemplos de Código
+```bash
 <?php
         echo "<div class='exercicio'>";
         echo "<h3>Quadrado de um numero</h3>";
@@ -50,6 +51,7 @@ O projeto visa consolidar o aprendizado e podem ser utilizados como portfólio p
         echo "</div>";
 
       ?>
+```
 ---
 ## 🏆 Autor(es)
 
