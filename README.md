@@ -1,4 +1,4 @@
-# Nome do Projeto
+# ATIVIDADE 2 PHP
 
 > "Projeto foi desenvolvido em WEB durante as aulas do curso técnico, abordando conceitos de PHP."
 
